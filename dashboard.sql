@@ -18,3 +18,5 @@ CREATE TABLE Payout (
     payout_date DATE NOT NULL,
     amount DECIMAL(15, 2) NOT NULL
 );
+
+--I will be making few changes to this tomorrow, probably going to add few more columns on client table.
